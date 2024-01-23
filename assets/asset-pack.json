@@ -1,0 +1,573 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/animations/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/images/background.png",
+                "type": "image",
+                "key": "background"
+            },
+            {
+                "url": "assets/images/background2.png",
+                "type": "image",
+                "key": "background2"
+            },
+            {
+                "url": "assets/images/bird.png",
+                "type": "image",
+                "key": "bird"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-01.png",
+                "type": "image",
+                "key": "bird-01"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-02.png",
+                "type": "image",
+                "key": "bird-02"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-03.png",
+                "type": "image",
+                "key": "bird-03"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-04.png",
+                "type": "image",
+                "key": "bird-04"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-05.png",
+                "type": "image",
+                "key": "bird-05"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-06.png",
+                "type": "image",
+                "key": "bird-06"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-07.png",
+                "type": "image",
+                "key": "bird-07"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-08.png",
+                "type": "image",
+                "key": "bird-08"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-09.png",
+                "type": "image",
+                "key": "bird-09"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-10.png",
+                "type": "image",
+                "key": "bird-10"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-11.png",
+                "type": "image",
+                "key": "bird-11"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-12.png",
+                "type": "image",
+                "key": "bird-12"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-13.png",
+                "type": "image",
+                "key": "bird-13"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-14.png",
+                "type": "image",
+                "key": "bird-14"
+            },
+            {
+                "url": "assets/images/birdSprite/bird-15.png",
+                "type": "image",
+                "key": "bird-15"
+            },
+            {
+                "url": "assets/images/obstacles/blue.png",
+                "type": "image",
+                "key": "blue"
+            },
+            {
+                "url": "assets/images/collectable/Corn.png",
+                "type": "image",
+                "key": "Corn"
+            },
+            {
+                "url": "assets/images/collecter/corn-counter.png",
+                "type": "image",
+                "key": "corn-counter"
+            },
+            {
+                "url": "assets/images/crank.png",
+                "type": "image",
+                "key": "crank"
+            },
+            {
+                "url": "assets/images/obstacles/double-verticle/double-verticle-1.png",
+                "type": "image",
+                "key": "double-verticle-1"
+            },
+            {
+                "url": "assets/images/obstacles/double-verticle/double-verticle-2.png",
+                "type": "image",
+                "key": "double-verticle-2"
+            },
+            {
+                "url": "assets/images/obstacles/double-verticle/double-verticle-3.png",
+                "type": "image",
+                "key": "double-verticle-3"
+            },
+            {
+                "url": "assets/images/obstacles/double-verticle/double-verticle-4.png",
+                "type": "image",
+                "key": "double-verticle-4"
+            },
+            {
+                "url": "assets/images/obstacles/double-verticle/double-verticle-5.png",
+                "type": "image",
+                "key": "double-verticle-5"
+            },
+            {
+                "url": "assets/images/obstacles/double-verticle/double-verticle-6.png",
+                "type": "image",
+                "key": "double-verticle-6"
+            },
+            {
+                "url": "assets/images/obstacles/double-verticle/double-verticle-7.png",
+                "type": "image",
+                "key": "double-verticle-7"
+            },
+            {
+                "url": "assets/images/obstacles/four-verticle/four-verticle-1.png",
+                "type": "image",
+                "key": "four-verticle-1"
+            },
+            {
+                "url": "assets/images/obstacles/four-verticle/four-verticle-2.png",
+                "type": "image",
+                "key": "four-verticle-2"
+            },
+            {
+                "url": "assets/images/obstacles/four-verticle/four-verticle-3.png",
+                "type": "image",
+                "key": "four-verticle-3"
+            },
+            {
+                "url": "assets/images/obstacles/four-verticle/four-verticle-4.png",
+                "type": "image",
+                "key": "four-verticle-4"
+            },
+            {
+                "url": "assets/images/obstacles/four-verticle/four-verticle-5.png",
+                "type": "image",
+                "key": "four-verticle-5"
+            },
+            {
+                "url": "assets/images/obstacles/four-verticle/four-verticle-6.png",
+                "type": "image",
+                "key": "four-verticle-6"
+            },
+            {
+                "url": "assets/images/obstacles/four-verticle/four-verticle-7.png",
+                "type": "image",
+                "key": "four-verticle-7"
+            },
+            {
+                "url": "assets/images/gameOver/gameOverBase.png",
+                "type": "image",
+                "key": "gameOverBase"
+            },
+            {
+                "url": "assets/images/gameOver/gameOverBg.png",
+                "type": "image",
+                "key": "gameOverBg"
+            },
+            {
+                "url": "assets/images/bg/gamePlayBg.png",
+                "type": "image",
+                "key": "gamePlayBg"
+            },
+            {
+                "url": "assets/images/obstacles/green.png",
+                "type": "image",
+                "key": "green"
+            },
+            {
+                "url": "assets/images/home/homeBg.png",
+                "type": "image",
+                "key": "homeBg"
+            },
+            {
+                "url": "assets/images/gameOver/homeBtn.png",
+                "type": "image",
+                "key": "homeBtn"
+            },
+            {
+                "url": "assets/images/home/homeLogo.png",
+                "type": "image",
+                "key": "homeLogo"
+            },
+            {
+                "url": "assets/images/home/leftBird.png",
+                "type": "image",
+                "key": "leftBird"
+            },
+            {
+                "url": "assets/images/home/musicOff.png",
+                "type": "image",
+                "key": "musicOff"
+            },
+            {
+                "url": "assets/images/home/musicOn.png",
+                "type": "image",
+                "key": "musicOn"
+            },
+            {
+                "url": "assets/images/obstacles/pink.png",
+                "type": "image",
+                "key": "pink"
+            },
+            {
+                "url": "assets/images/playAgain.png",
+                "type": "image",
+                "key": "playAgain"
+            },
+            {
+                "url": "assets/images/home/playBtn.png",
+                "type": "image",
+                "key": "playBtn"
+            },
+            {
+                "url": "assets/images/obstacles/purple.png",
+                "type": "image",
+                "key": "purple"
+            },
+            {
+                "url": "assets/images/obstacles/rect-11.png",
+                "type": "image",
+                "key": "rect-11"
+            },
+            {
+                "url": "assets/images/obstacles/rect-6.png",
+                "type": "image",
+                "key": "rect-6"
+            },
+            {
+                "url": "assets/images/obstacles/rect-7.png",
+                "type": "image",
+                "key": "rect-7"
+            },
+            {
+                "url": "assets/images/obstacles/rect-9.png",
+                "type": "image",
+                "key": "rect-9"
+            },
+            {
+                "url": "assets/images/gameOver/retryBtn.png",
+                "type": "image",
+                "key": "retryBtn"
+            },
+            {
+                "url": "assets/images/home/rightBird.png",
+                "type": "image",
+                "key": "rightBird"
+            },
+            {
+                "url": "assets/images/rope.png",
+                "type": "image",
+                "key": "rope"
+            },
+            {
+                "url": "assets/images/score_base.png",
+                "type": "image",
+                "key": "score_base"
+            },
+            {
+                "url": "assets/images/obstacles/seventh-verticle/seventh-verticle-1.png",
+                "type": "image",
+                "key": "seventh-verticle-1"
+            },
+            {
+                "url": "assets/images/obstacles/seventh-verticle/seventh-verticle-2.png",
+                "type": "image",
+                "key": "seventh-verticle-2"
+            },
+            {
+                "url": "assets/images/obstacles/seventh-verticle/seventh-verticle-3.png",
+                "type": "image",
+                "key": "seventh-verticle-3"
+            },
+            {
+                "url": "assets/images/obstacles/seventh-verticle/seventh-verticle-4.png",
+                "type": "image",
+                "key": "seventh-verticle-4"
+            },
+            {
+                "url": "assets/images/obstacles/seventh-verticle/seventh-verticle-5.png",
+                "type": "image",
+                "key": "seventh-verticle-5"
+            },
+            {
+                "url": "assets/images/obstacles/seventh-verticle/seventh-verticle-6.png",
+                "type": "image",
+                "key": "seventh-verticle-6"
+            },
+            {
+                "url": "assets/images/obstacles/seventh-verticle/seventh-verticle-7.png",
+                "type": "image",
+                "key": "seventh-verticle-7"
+            },
+            {
+                "url": "assets/images/white-shine/sh-01.png",
+                "type": "image",
+                "key": "sh-01"
+            },
+            {
+                "url": "assets/images/white-shine/sh-02.png",
+                "type": "image",
+                "key": "sh-02"
+            },
+            {
+                "url": "assets/images/white-shine/sh-03.png",
+                "type": "image",
+                "key": "sh-03"
+            },
+            {
+                "url": "assets/images/white-shine/sh-04.png",
+                "type": "image",
+                "key": "sh-04"
+            },
+            {
+                "url": "assets/images/white-shine/sh-05.png",
+                "type": "image",
+                "key": "sh-05"
+            },
+            {
+                "url": "assets/images/white-shine/sh-06.png",
+                "type": "image",
+                "key": "sh-06"
+            },
+            {
+                "url": "assets/images/white-shine/sh-07.png",
+                "type": "image",
+                "key": "sh-07"
+            },
+            {
+                "url": "assets/images/white-shine/sh-08.png",
+                "type": "image",
+                "key": "sh-08"
+            },
+            {
+                "url": "assets/images/white-shine/sh-09.png",
+                "type": "image",
+                "key": "sh-09"
+            },
+            {
+                "url": "assets/images/white-shine/sh-10.png",
+                "type": "image",
+                "key": "sh-10"
+            },
+            {
+                "url": "assets/images/white-shine/sh-11.png",
+                "type": "image",
+                "key": "sh-11"
+            },
+            {
+                "url": "assets/images/white-shine/sh-12.png",
+                "type": "image",
+                "key": "sh-12"
+            },
+            {
+                "url": "assets/images/white-shine/sh-13.png",
+                "type": "image",
+                "key": "sh-13"
+            },
+            {
+                "url": "assets/images/white-shine/sh-14.png",
+                "type": "image",
+                "key": "sh-14"
+            },
+            {
+                "url": "assets/images/white-shine/sh-15.png",
+                "type": "image",
+                "key": "sh-15"
+            },
+            {
+                "url": "assets/images/shine/shine-01.png",
+                "type": "image",
+                "key": "shine-01"
+            },
+            {
+                "url": "assets/images/shine/shine-02.png",
+                "type": "image",
+                "key": "shine-02"
+            },
+            {
+                "url": "assets/images/shine/shine-03.png",
+                "type": "image",
+                "key": "shine-03"
+            },
+            {
+                "url": "assets/images/shine/shine-04.png",
+                "type": "image",
+                "key": "shine-04"
+            },
+            {
+                "url": "assets/images/shine/shine-05.png",
+                "type": "image",
+                "key": "shine-05"
+            },
+            {
+                "url": "assets/images/shine/shine-06.png",
+                "type": "image",
+                "key": "shine-06"
+            },
+            {
+                "url": "assets/images/shine/shine-07.png",
+                "type": "image",
+                "key": "shine-07"
+            },
+            {
+                "url": "assets/images/shine/shine-08.png",
+                "type": "image",
+                "key": "shine-08"
+            },
+            {
+                "url": "assets/images/shine/shine-09.png",
+                "type": "image",
+                "key": "shine-09"
+            },
+            {
+                "url": "assets/images/shine/shine-10.png",
+                "type": "image",
+                "key": "shine-10"
+            },
+            {
+                "url": "assets/images/shine/shine-11.png",
+                "type": "image",
+                "key": "shine-11"
+            },
+            {
+                "url": "assets/images/shine/shine-12.png",
+                "type": "image",
+                "key": "shine-12"
+            },
+            {
+                "url": "assets/images/shine/shine-13.png",
+                "type": "image",
+                "key": "shine-13"
+            },
+            {
+                "url": "assets/images/shine/shine-14.png",
+                "type": "image",
+                "key": "shine-14"
+            },
+            {
+                "url": "assets/images/obstacles/single/single-1.png",
+                "type": "image",
+                "key": "single-1"
+            },
+            {
+                "url": "assets/images/obstacles/single/single-2.png",
+                "type": "image",
+                "key": "single-2"
+            },
+            {
+                "url": "assets/images/obstacles/single/single-3.png",
+                "type": "image",
+                "key": "single-3"
+            },
+            {
+                "url": "assets/images/obstacles/single/single-4.png",
+                "type": "image",
+                "key": "single-4"
+            },
+            {
+                "url": "assets/images/obstacles/single/single-5.png",
+                "type": "image",
+                "key": "single-5"
+            },
+            {
+                "url": "assets/images/obstacles/single/single-6.png",
+                "type": "image",
+                "key": "single-6"
+            },
+            {
+                "url": "assets/images/home/soundOn.png",
+                "type": "image",
+                "key": "soundOn"
+            },
+            {
+                "url": "assets/images/home/sounOff.png",
+                "type": "image",
+                "key": "sounOff"
+            },
+            {
+                "url": "assets/images/obstacles/verticle-down/verticle-down-1.png",
+                "type": "image",
+                "key": "verticle-down-1"
+            },
+            {
+                "url": "assets/images/obstacles/verticle-down/verticle-down-2.png",
+                "type": "image",
+                "key": "verticle-down-2"
+            },
+            {
+                "url": "assets/images/obstacles/verticle-down/verticle-down-3.png",
+                "type": "image",
+                "key": "verticle-down-3"
+            },
+            {
+                "url": "assets/images/obstacles/verticle-down/verticle-down-4.png",
+                "type": "image",
+                "key": "verticle-down-4"
+            },
+            {
+                "url": "assets/images/obstacles/verticle-down/verticle-down-5.png",
+                "type": "image",
+                "key": "verticle-down-5"
+            },
+            {
+                "url": "assets/images/obstacles/verticle-down/verticle-down-6.png",
+                "type": "image",
+                "key": "verticle-down-6"
+            },
+            {
+                "url": "assets/images/obstacles/verticle-down/verticle-down-7.png",
+                "type": "image",
+                "key": "verticle-down-7"
+            },
+            {
+                "url": "assets/images/collectable/Wheat.png",
+                "type": "image",
+                "key": "Wheat"
+            },
+            {
+                "url": "assets/images/collecter/wheat-counter.png",
+                "type": "image",
+                "key": "wheat-counter"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

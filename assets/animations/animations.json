@@ -1,0 +1,262 @@
+{
+    "anims": [
+        {
+            "key": "birdWing",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "bird-01",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-02",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-03",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-04",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-05",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-06",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-07",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-08",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-09",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-14",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "bird-15",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "glow",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "shine-01",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-02",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-03",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-04",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-05",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-06",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-07",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-08",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-09",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shine-14",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 32,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "glowOnCollide",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "sh-01",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-02",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-03",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-04",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-05",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-06",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-07",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-08",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-09",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-14",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "sh-15",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

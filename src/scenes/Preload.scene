@@ -1,0 +1,72 @@
+{
+    "id": "04331fb6-ed91-4d74-b6e9-4bfe0fcfb457",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "starter-template-basic-typescript/assets/asset-pack.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Preload",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "aa17f965-37cc-4812-b813-51a28490b31c",
+            "label": "preloadBg",
+            "texture": {
+                "key": "preloadBg"
+            },
+            "x": 540,
+            "y": 960
+        },
+        {
+            "type": "Image",
+            "id": "df6482dc-6e71-4680-b679-8a0ff55767ba",
+            "label": "preloadLogo",
+            "texture": {
+                "key": "preloadLogo"
+            },
+            "x": 540,
+            "y": 400
+        },
+        {
+            "type": "Text",
+            "id": "c5752ee2-3f7b-41b4-be55-2176e62d5952",
+            "label": "loadingText",
+            "scope": "CLASS",
+            "x": 410,
+            "y": 1580,
+            "originY": 0.5,
+            "text": "Loading",
+            "fontFamily": "toJapan",
+            "fontSize": "40px",
+            "color": "#fefcda",
+            "stroke": "#c9663f",
+            "strokeThickness": 10
+        },
+        {
+            "type": "Text",
+            "id": "58ce3d3d-b2bf-4ab3-be3e-b4e3301fac76",
+            "label": "loadingDots",
+            "scope": "CLASS",
+            "x": 640,
+            "y": 1585,
+            "originY": 0.5,
+            "fontFamily": "toJapan",
+            "fontSize": "40px",
+            "color": "#fefcda",
+            "stroke": "#c9663f",
+            "strokeThickness": 10
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "03e4b08a-973c-4681-bf88-4173c61af6a0",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Home",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "5f2c3000-cba2-4237-a217-3f379427e97d",
+            "label": "homeBg",
+            "texture": {
+                "key": "homeBg"
+            },
+            "x": 540,
+            "y": 960
+        },
+        {
+            "type": "Image",
+            "id": "192a9b07-bb11-4ccb-82ab-3125f2c53220",
+            "label": "homeLogo",
+            "texture": {
+                "key": "homeLogo"
+            },
+            "x": 540,
+            "y": 400
+        },
+        {
+            "type": "Image",
+            "id": "3d382399-15bf-415b-9a0e-9f2ed3ca50ed",
+            "label": "playBtn",
+            "scope": "CLASS",
+            "texture": {
+                "key": "playBtn"
+            },
+            "x": 540,
+            "y": 1267
+        },
+        {
+            "type": "Image",
+            "id": "8a038038-8321-417a-89d4-f814c7a021c4",
+            "label": "musicOn",
+            "scope": "CLASS",
+            "texture": {
+                "key": "musicOn"
+            },
+            "x": 340,
+            "y": 1500
+        },
+        {
+            "type": "Image",
+            "id": "28367fcd-e826-41b5-bc15-c89125728918",
+            "label": "soundOn",
+            "scope": "CLASS",
+            "texture": {
+                "key": "soundOn"
+            },
+            "x": 740,
+            "y": 1500
+        },
+        {
+            "type": "Sprite",
+            "id": "51aa2492-0447-4a93-a6ef-2408c5c5b036",
+            "label": "leftBird",
+            "scope": "CLASS",
+            "texture": {
+                "key": "bird-01"
+            },
+            "x": 368,
+            "y": 509,
+            "flipX": true
+        },
+        {
+            "type": "Sprite",
+            "id": "4548c86d-6191-44ae-ac55-bd6a7f3bfe81",
+            "label": "rightBird",
+            "scope": "CLASS",
+            "texture": {
+                "key": "bird-01"
+            },
+            "x": 715,
+            "y": 513
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

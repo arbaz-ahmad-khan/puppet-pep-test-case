@@ -1,0 +1,55 @@
+{
+    "id": "2cd2b194-2997-44b7-b8f7-e8a1386731ca",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "GameOver",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "4bfdf251-a023-4a1d-b036-c45809c0bdef",
+            "label": "playAgain",
+            "scope": "CLASS",
+            "texture": {
+                "key": "playAgain"
+            },
+            "x": 540,
+            "y": 1350,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "type": "Image",
+            "id": "97ae9072-b39c-4a7c-8d74-f19b3de3530f",
+            "label": "rope",
+            "texture": {
+                "key": "rope"
+            },
+            "x": 540,
+            "y": -55
+        },
+        {
+            "type": "Image",
+            "id": "a77ea685-b5bf-4d32-afb9-27eeaf9923f4",
+            "label": "bird",
+            "texture": {
+                "key": "bird"
+            },
+            "x": 540,
+            "y": 760,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

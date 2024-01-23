@@ -1,0 +1,585 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "995deedf-d064-4609-9724-019842b9c781",
+            "label": "gamePlayBg",
+            "texture": {
+                "key": "gamePlayBg"
+            },
+            "x": 540,
+            "y": 960
+        },
+        {
+            "type": "TileSprite",
+            "id": "0eb2165c-e011-40ef-a9f0-d40efdcdac13",
+            "label": "background",
+            "scope": "CLASS",
+            "texture": {
+                "key": "background"
+            },
+            "x": 2314,
+            "y": 960,
+            "originX": 1,
+            "width": 2314,
+            "height": 1920
+        },
+        {
+            "type": "TileSprite",
+            "id": "c7e0061a-e279-48b5-93bd-b209186e8025",
+            "label": "background2",
+            "scope": "CLASS",
+            "texture": {
+                "key": "background2"
+            },
+            "x": 2314,
+            "y": 960,
+            "originX": 1,
+            "width": 2314,
+            "height": 1920
+        },
+        {
+            "type": "Container",
+            "id": "4ee806d7-f838-4d86-a0a6-5ef1051941c5",
+            "label": "ropeContainer",
+            "scope": "CLASS"
+        },
+        {
+            "type": "Container",
+            "id": "62997ce9-00b1-4cb5-82be-f334a749b522",
+            "label": "obstacleContainer",
+            "scope": "CLASS",
+            "list": [
+                {
+                    "type": "Sprite",
+                    "id": "cc6ef781-d59f-479c-b765-caee78cc0817",
+                    "label": "obstacleTwo",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "rect-9"
+                    },
+                    "x": 1150,
+                    "y": 550,
+                    "originY": 0.035997847150562326
+                },
+                {
+                    "type": "Image",
+                    "id": "3a0dbfeb-5503-4dbd-884c-c98f85b025a5",
+                    "label": "obstacleSix",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "rect-7"
+                    },
+                    "x": 2600,
+                    "y": 16,
+                    "originY": 0.028410816404141687
+                },
+                {
+                    "type": "Image",
+                    "id": "250057fe-e819-4f21-8b23-8bd55f44dcd5",
+                    "label": "obstacleSeven",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "rect-7"
+                    },
+                    "x": 2600,
+                    "y": 877.8822252156593,
+                    "originY": 0.027783025869587145
+                },
+                {
+                    "type": "Image",
+                    "id": "2f934f42-1d94-4eca-87e5-ea5d2f7b9eb5",
+                    "label": "obstacleEight",
+                    "texture": {
+                        "key": "rect-6"
+                    },
+                    "x": 3325,
+                    "y": 285
+                },
+                {
+                    "type": "Image",
+                    "id": "7890c5c0-cdd9-4765-a08d-2dcbd51365a3",
+                    "label": "obstacleNine",
+                    "texture": {
+                        "key": "rect-6"
+                    },
+                    "x": 3325,
+                    "y": 1007
+                },
+                {
+                    "type": "Image",
+                    "id": "33bcf8ec-0172-4e4c-b0dc-0f374d571e89",
+                    "label": "obstacleTen",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "rect-11"
+                    },
+                    "x": 4100,
+                    "y": 18,
+                    "originX": 0.05250045664592673,
+                    "originY": 0.078339811829923
+                },
+                {
+                    "type": "Image",
+                    "id": "1eb77ef3-42d6-45ee-b254-3c4072c78c30",
+                    "label": "obstacleEleven",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "rect-11"
+                    },
+                    "x": 4100,
+                    "y": 1115,
+                    "originX": 0.04818128942808857,
+                    "originY": 0.07960386948988561,
+                    "flipY": true
+                },
+                {
+                    "type": "Image",
+                    "id": "3c9f836e-da37-49ee-9810-d291816c9a58",
+                    "label": "green",
+                    "texture": {
+                        "key": "green"
+                    },
+                    "x": 1150,
+                    "y": 50
+                },
+                {
+                    "type": "Image",
+                    "id": "cab63598-f05b-4df2-bd96-c2a316ebfc05",
+                    "label": "green_1",
+                    "texture": {
+                        "key": "green"
+                    },
+                    "x": 1150,
+                    "y": 135
+                },
+                {
+                    "type": "Image",
+                    "id": "ee770a1c-2889-4999-8c3f-6e63a2a84f60",
+                    "label": "green_2",
+                    "texture": {
+                        "key": "green"
+                    },
+                    "x": 1150,
+                    "y": 220
+                },
+                {
+                    "type": "Image",
+                    "id": "e2d0e0ae-4042-4758-bcf7-41c1e65f8774",
+                    "label": "green_3",
+                    "texture": {
+                        "key": "green"
+                    },
+                    "x": 1150,
+                    "y": 1080
+                },
+                {
+                    "type": "Image",
+                    "id": "e6e97338-316c-44de-af56-99a0e69e5ed2",
+                    "label": "green_4",
+                    "texture": {
+                        "key": "green"
+                    },
+                    "x": 1150,
+                    "y": 1165
+                },
+                {
+                    "type": "Image",
+                    "id": "7687cc56-419e-40d9-978d-15e8021cc013",
+                    "label": "green_5",
+                    "texture": {
+                        "key": "green"
+                    },
+                    "x": 1150,
+                    "y": 1250
+                },
+                {
+                    "type": "Image",
+                    "id": "5c59431a-31b1-43d4-9537-239983bd39a9",
+                    "label": "pink",
+                    "texture": {
+                        "key": "pink"
+                    },
+                    "x": 1900,
+                    "y": 160
+                },
+                {
+                    "type": "Image",
+                    "id": "fd9df385-d6fa-44f0-9dff-90ad151c266b",
+                    "label": "blue_1",
+                    "texture": {
+                        "key": "blue"
+                    },
+                    "x": 1900,
+                    "y": 460
+                },
+                {
+                    "type": "Image",
+                    "id": "2ee91f2e-6b1c-4092-9f8c-fcc8a8086d1c",
+                    "label": "pink_1",
+                    "texture": {
+                        "key": "pink"
+                    },
+                    "x": 1900,
+                    "y": 760
+                },
+                {
+                    "type": "Image",
+                    "id": "abbb648d-b00a-4818-904c-46bf38c8799d",
+                    "label": "blue",
+                    "texture": {
+                        "key": "blue"
+                    },
+                    "x": 1900,
+                    "y": 1060
+                },
+                {
+                    "type": "Image",
+                    "id": "204ba704-78b1-47c1-9b47-f72b580403b4",
+                    "label": "purple1",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "purple"
+                    },
+                    "x": 4900,
+                    "y": 15,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "f4a8f375-7c9d-4510-bcab-906227d1ca20",
+                    "label": "purple2",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "purple"
+                    },
+                    "x": 5200,
+                    "y": 175,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "b1ce5591-efb4-4617-9b02-00b71bf3316c",
+                    "label": "purple3",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "purple"
+                    },
+                    "x": 5500,
+                    "y": 335,
+                    "originY": 0
+                },
+                {
+                    "type": "Image",
+                    "id": "3aea70c5-6911-499d-80a7-b3fc0808f262",
+                    "label": "pink1",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "single-2"
+                    },
+                    "x": 6100,
+                    "y": 1164.5126061797357,
+                    "originY": 0.13033964770558035
+                },
+                {
+                    "type": "Image",
+                    "id": "82f495ea-1aa6-4913-86c5-366d706bb0d4",
+                    "label": "pink2",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "single-2"
+                    },
+                    "x": 6100,
+                    "y": 713.5212459655579,
+                    "originY": 0.1200129788078949
+                },
+                {
+                    "type": "Image",
+                    "id": "9405c51f-7a3c-4403-8367-0551b15cc4d9",
+                    "label": "pink3",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "single-2"
+                    },
+                    "x": 6100,
+                    "y": 265.2342747274653,
+                    "originY": 0.13785702841109662
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "628b9552-2fc4-4859-a2d2-5e5ac3f127d4",
+            "label": "wheatContainer",
+            "scope": "CLASS"
+        },
+        {
+            "type": "Container",
+            "id": "de6a39c1-04cf-4431-9a8e-ef260a040049",
+            "label": "cornContainer",
+            "scope": "CLASS"
+        },
+        {
+            "type": "Image",
+            "id": "19407cea-63f6-4fc4-84b7-1d376fd19e2f",
+            "label": "corn_counter",
+            "texture": {
+                "key": "corn-counter"
+            },
+            "x": 80,
+            "y": 50,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Image",
+            "id": "d5088889-6689-4218-9690-1142ddf5028f",
+            "label": "wheat_counter",
+            "texture": {
+                "key": "wheat-counter"
+            },
+            "x": 230,
+            "y": 50,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Image",
+            "id": "9929bab7-01db-49e0-9184-2b3e67bfef7e",
+            "label": "score_base",
+            "texture": {
+                "key": "score_base"
+            },
+            "x": 84,
+            "y": 120,
+            "scaleX": 1.2,
+            "scaleY": 1.23
+        },
+        {
+            "type": "Image",
+            "id": "014f371e-f374-4650-9845-510df27c5b32",
+            "label": "score_base_1",
+            "texture": {
+                "key": "score_base"
+            },
+            "x": 233,
+            "y": 120,
+            "scaleX": 1.2,
+            "scaleY": 1.23
+        },
+        {
+            "type": "Image",
+            "id": "c4f24bf8-7fee-41cf-83cd-d5d82358e226",
+            "label": "score_base_2",
+            "texture": {
+                "key": "score_base"
+            },
+            "x": 964,
+            "y": 120,
+            "scaleX": 1.2,
+            "scaleY": 1.23
+        },
+        {
+            "type": "Text",
+            "id": "302b20cf-5c17-4a81-bb91-b9e66634c415",
+            "label": "scoreText",
+            "x": 965,
+            "y": 29,
+            "originX": 0.5,
+            "text": "SCORE",
+            "fontFamily": "toJapan",
+            "fontSize": "35px",
+            "color": "#fdfbdc"
+        },
+        {
+            "type": "Text",
+            "id": "8dabc45e-2646-4d15-a80b-f55932e76771",
+            "label": "cornCountText",
+            "scope": "CLASS",
+            "x": 86,
+            "y": 78,
+            "originX": 0.5,
+            "text": "0",
+            "fontFamily": "toJapan",
+            "fontSize": "48px",
+            "color": "#fdfbdc"
+        },
+        {
+            "type": "Text",
+            "id": "3a0900e6-0686-4fa2-a5e2-6c61cdbca335",
+            "label": "wheatCountText",
+            "scope": "CLASS",
+            "x": 236,
+            "y": 78,
+            "originX": 0.5,
+            "text": "0",
+            "fontFamily": "toJapan",
+            "fontSize": "48px",
+            "color": "#fdfbdc"
+        },
+        {
+            "type": "Sprite",
+            "id": "d2e443fd-59a6-42de-a241-ae8fc4a8fb49",
+            "label": "birdFly",
+            "scope": "CLASS",
+            "texture": {
+                "key": "bird-01"
+            },
+            "x": -187,
+            "y": 1266,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "visible": false
+        },
+        {
+            "type": "Sprite",
+            "id": "e75df49e-74a4-46d2-bcd7-b24731702867",
+            "label": "shine",
+            "scope": "CLASS",
+            "texture": {
+                "key": "shine-01"
+            },
+            "x": -297,
+            "y": 550,
+            "visible": false
+        },
+        {
+            "type": "Container",
+            "id": "c514bed7-baa5-42a3-b2f9-680cf88a05d4",
+            "label": "gameOverContainer",
+            "scope": "CLASS",
+            "x": 1080,
+            "visible": false,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "bd7fa0e4-3b29-46a5-ba7a-39fe4efece8e",
+                    "label": "gameOverBg",
+                    "texture": {
+                        "key": "gameOverBg"
+                    },
+                    "x": 540,
+                    "y": 960,
+                    "scaleX": 1.1,
+                    "scaleY": 1.1
+                },
+                {
+                    "type": "Image",
+                    "id": "1a30eda9-e67f-4eb5-9c46-36602c04c93d",
+                    "label": "gameOverBase",
+                    "texture": {
+                        "key": "gameOverBase"
+                    },
+                    "x": 540,
+                    "y": 910
+                },
+                {
+                    "type": "Image",
+                    "id": "a87da4d5-42be-4d64-b753-80a2e6478d44",
+                    "label": "homeBtn",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "homeBtn"
+                    },
+                    "x": 380,
+                    "y": 1325
+                },
+                {
+                    "type": "Image",
+                    "id": "9516d6b9-ecff-4806-94e8-48832452a3c6",
+                    "label": "retryBtn",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "retryBtn"
+                    },
+                    "x": 700,
+                    "y": 1325
+                },
+                {
+                    "type": "Text",
+                    "id": "f982711b-7dff-4f56-82e1-e64f96d40eeb",
+                    "label": "gameOverHSText",
+                    "scope": "CLASS",
+                    "x": 367,
+                    "y": 776,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "0",
+                    "fontFamily": "toJapan",
+                    "fontSize": "64px",
+                    "color": "#b37648"
+                },
+                {
+                    "type": "Text",
+                    "id": "7c10a3be-3457-4f3a-9419-bde6ae275aff",
+                    "label": "gameOverYSText",
+                    "scope": "CLASS",
+                    "x": 710,
+                    "y": 777,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "0",
+                    "fontFamily": "toJapan",
+                    "fontSize": "64px",
+                    "color": "#b37648"
+                },
+                {
+                    "type": "Text",
+                    "id": "c3cc06b4-8db0-4e52-8226-b99b30197537",
+                    "label": "gameOverMCText",
+                    "scope": "CLASS",
+                    "x": 376,
+                    "y": 1000,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "0",
+                    "fontFamily": "toJapan",
+                    "fontSize": "32px",
+                    "color": "#fdfbdc"
+                },
+                {
+                    "type": "Text",
+                    "id": "b5990c65-2d14-4551-a4ba-19d7c06ab55c",
+                    "label": "gameOverCCText",
+                    "scope": "CLASS",
+                    "x": 708,
+                    "y": 1000,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "0",
+                    "fontFamily": "toJapan",
+                    "fontSize": "32px",
+                    "color": "#fdfbdc"
+                }
+            ]
+        },
+        {
+            "type": "Sprite",
+            "id": "ed320c90-11ae-4c23-9b7e-5988cab0e659",
+            "label": "collisionShine",
+            "scope": "CLASS",
+            "texture": {
+                "key": "sh-01"
+            },
+            "x": -199,
+            "y": 983,
+            "visible": false
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}
